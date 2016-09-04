@@ -1,3 +1,7 @@
+/* Author: Pin Chu, Fan Wu
+ * Date  : 3/15/2016
+ **/
+ 
 module SHA1_hash (       
 	clk, 		
 	nreset, 	
